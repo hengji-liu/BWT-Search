@@ -7,6 +7,8 @@ Archive here as reference
 
 ./bwtsearch sample.bwt sample.idx "term1" "term2" "term3"
 
+- BWT file up to 160M
+- All visible ascii characters
 - Runtime memory constrain: 10M
 - Index file cannot larger than bwt file
 - Up to 3 search terms
